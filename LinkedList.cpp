@@ -1,5 +1,5 @@
-# Easy
-# 707. Design Linked List
+// Easy
+// 707. Design Linked List
 class MyLinkedList {
 public:
     struct ListNode{
